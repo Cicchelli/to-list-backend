@@ -1,5 +1,5 @@
 # Docker Todo List
-Projeto da [Trybe](https://www.betrybe.com/) - Bloco 19 - Criação e orquestração de containers com Docker.
+Projeto da [Trybe](https://www.betrybe.com/) - Criação e orquestração de containers com Docker.
 
 ## 💻 Projeto
 
