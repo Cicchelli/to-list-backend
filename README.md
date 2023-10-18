@@ -8,7 +8,7 @@ Projeto da [Trybe](https://www.betrybe.com/) - Criação e orquestração de con
 <details>
   <summary><strong>🏆 Meu desempenho</strong></summary><br />
 
-  <img src="project-info/docker-todo-list.png"/>
+  <img src="<img src="https://a.imagem.app/onleuY.png" alt="onleuY.png" border="0" />"/>
 </details>
 
 ## 🚀 Tecnologias
